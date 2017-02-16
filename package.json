@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rainman161/test.git"
+    "url": "git+https://github.com/Taraskin89/Theory"
   },
   "keywords": [
     "test",
     "study"
   ],
-  "author": "Vladilen",
+  "author": "Ar1k",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rainman161/test/issues"
