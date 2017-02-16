@@ -1,1 +1,1 @@
-console.log('App: init!');
+console.log('Hi');
