@@ -1,0 +1,24 @@
+{
+  "name": "theory-proj",
+  "version": "1.0.0",
+  "description": "test theory proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taraskin89/Theory.git"
+  },
+  "keywords": [
+    "theory",
+    "test",
+    "study"
+  ],
+  "author": "Ar1k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taraskin89/Theory/issues"
+  },
+  "homepage": "https://github.com/Taraskin89/Theory#readme"
+}
